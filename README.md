@@ -1,6 +1,6 @@
 ## Ola sou o Cesar
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarFSJunior&show_icons=true&theme=tokyonight&count_private=true&locale=Pt-Br&hide_rank=true&hide_title=true&include_all_commits=true)](https://github.com/CesarFSJunior)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarFSJunior&show_icons=true&theme=tokyonight&count_private=true&locale=Pt-Br&hide_rank=true&hide_title=true)](https://github.com/CesarFSJunior)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarFSJunior&layout=compact&theme=tokyonight)](https://github.com/CesarFSJunior)
 
 🎓  Sou um estudante do 1º Periodo de Ciencias da Computação
