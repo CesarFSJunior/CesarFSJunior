@@ -7,6 +7,7 @@
 
 😀  comecei a estudar programação a pouco tempo por isso esperem ver mais no futuro
 
-[![Shield Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-francisco-80562b23a/)
-[![Shield Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cesar.fsj/?hl=pt-br)
-[![Shield Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesarfsjunior@hotmail.com)
+<a href="https://www.linkedin.com/in/cesar-francisco-80562b23a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shield linkedin"></img></a>
+<a href="https://www.instagram.com/cesar.fsj/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="shield instagram"></img></a>
+<a href="mailto:cesarfsjunior@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="shield gmail"></img></a>
+
