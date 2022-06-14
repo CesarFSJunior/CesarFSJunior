@@ -1,7 +1,8 @@
 ## Ola sou o Cesar
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarFSJunior&show_icons=true&theme=tokyonight&count_private=true&locale=Pt-Br&hide_rank=true&hide_title=true)](https://github.com/CesarFSJunior)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarFSJunior&layout=compact&theme=tokyonight)](https://github.com/CesarFSJunior)
+<a href="https://github.com/CesarFSJunior"><img src="https://github-readme-stats.vercel.app/api?username=CesarFSJunior&show_icons=true&theme=tokyonight&count_private=true&locale=Pt-Br&hide_rank=true&hide_title=true" alt="Anurag Github status" style="height: 170px; width: 49%;"></a>
+<a href="https://github.com/CesarFSJunior"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarFSJunior&layout=compact&theme=tokyonight" alt="Top Languages" style="height: 170px; width: 49%;"></a>
+
 
 🎓  Sou um estudante do 1º Periodo de Ciencias da Computação
 
