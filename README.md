@@ -1,4 +1,4 @@
-## Ola sou o Cesar
+## Hi this is Cesar
 
 
 <div style="width: 100%; display: flex; justify-content: center;">
@@ -6,20 +6,18 @@
   <a href="https://github.com/CesarFSJunior"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarFSJunior&layout=compact&theme=tokyonight" alt="Top Languages"></a>
 </div>
 
+### About me
 
-🎓  Sou um estudante do 1º Periodo de Ciencias da Computação
+<!-- 
+🎓  Hi this is Cesar
 
-😀  comecei a estudar programação a pouco tempo por isso esperem ver mais no futuro
-
-<a href="https://www.linkedin.com/in/cesar-francisco/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shield linkedin"></img></a>
-<a href="https://www.instagram.com/cesar.fsj/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="shield instagram"></img></a>
-<a href="mailto:cesarfsjunior@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="shield gmail"></img></a>
-<a href="https://cesarfsjunior.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="porfolio Shield"></img></a>
+😀  I am a second period computer science student -->
 
 ``` js
  const Me = {
   name; "Cesar",
   country: "Brazil";
+  location: "São Paulo, SP"; 
   technologies: {
     FrontEnd: {
       js: ["React"]
@@ -30,3 +28,9 @@
  }
 
 ```
+
+
+<a href="https://www.linkedin.com/in/cesar-francisco/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shield linkedin"></img></a>
+<a href="https://www.instagram.com/cesar.fsj/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="shield instagram"></img></a>
+<a href="mailto:cesarfsjunior@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="shield gmail"></img></a>
+<a href="https://cesarfsjunior.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="porfolio Shield"></img></a>
