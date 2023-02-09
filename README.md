@@ -22,7 +22,7 @@
     FrontEnd: {
       js: ["React"]
     },
-    BackEnd: ["Node.js"],
+    BackEnd: ["Node.js", "Java"],
     Databases: ["Mongo.Db", "MySQL"]
   }
  }
