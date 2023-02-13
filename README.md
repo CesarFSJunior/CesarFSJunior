@@ -19,9 +19,6 @@
   country: "Brazil";
   location: "São Paulo, SP"; 
   technologies: {
-    FrontEnd: {
-      js: ["React"]
-    },
     BackEnd: ["Node.js", "Java"],
     Databases: ["Mongo.Db", "MySQL"]
   }
