@@ -20,7 +20,8 @@
   location: "São Paulo, SP"; 
   technologies: {
     BackEnd: ["Node.js", "Java"],
-    Databases: ["Mongo.Db", "MySQL"]
+    Databases: ["Mongo.Db", "MySQL"],
+    frameworks: ["Spring Framework"]
   }
  }
 
