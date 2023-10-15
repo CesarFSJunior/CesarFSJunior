@@ -11,7 +11,7 @@
 <!-- 
 🎓  Hi this is Cesar
 
-😀  I am a second period computer science student -->
+😀  I am a fourth period computer science student -->
 
 ``` js
  const Me = {
@@ -19,8 +19,8 @@
   country: "Brazil";
   location: "São Paulo, SP"; 
   technologies: {
-    BackEnd: ["Node.js", "Java"],
-    Databases: ["Mongo.Db", "MySQL"],
+    BackEnd: ["Node.js", "Java", "Python"],
+    Databases: ["SQL"],
     frameworks: ["Spring Framework"]
   }
  }
