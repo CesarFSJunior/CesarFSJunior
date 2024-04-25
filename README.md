@@ -8,10 +8,12 @@
 
 ### About me
 
-<!-- 
-🎓  Hi this is Cesar
 
-😀  I am a fourth period computer science student -->
+😀 Hi my name is Cesar
+
+ 📚 I am a fifht period computer science student 
+
+ 💼 Actualy i am a intern at Vivo (Telefônica Brasil) action on a Mis team on Fraud Analysis and Prevention
 
 ``` js
  const Me = {
@@ -19,9 +21,9 @@
   country: "Brazil";
   location: "São Paulo, SP"; 
   technologies: {
-    BackEnd: ["Node.js", "Java", "Python"],
-    Databases: ["SQL"],
-    frameworks: ["Spring Framework"]
+    BackEnd: ["Java", "Python", "C#"],
+    Databases: ["SQL", "MySql"],
+    frameworks: ["Spring Framework", "AspNetCore"]
   }
  }
 
