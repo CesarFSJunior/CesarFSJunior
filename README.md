@@ -13,7 +13,7 @@
 
  📚 I am a fifht period computer science student 
 
- 💼 Actualy i am a intern at Vivo (Telefônica Brasil) action on a Mis team on Fraud Analysis and Prevention
+ 💼 Actually i am a intern at Vivo (Telefônica Brasil) working on a Mis team on Fraud Analysis and Prevention
 
 ``` js
  const Me = {
