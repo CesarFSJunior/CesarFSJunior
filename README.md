@@ -11,7 +11,7 @@
 
 😀 Hi my name is Cesar
 
- 📚 I am a fifht period computer science student 
+ 📚 I am a sixth period computer science student 
 
  💼 Actually i am a intern at Vivo (Telefônica Brasil) working on a Mis team on Fraud Analysis and Prevention
 
